@@ -357,7 +357,7 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 
 | 名称                                                                 | 中文介绍                                                                              | 备注                                                                                 |
 | :------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------- |
-| [mcp-production-kit](https://github.com/A7mdMe/mcp-production-kit) | 企业级 TypeScript MCP 服务器脚手架与全栈生产套件，内置系统指标诊断、防 SSRF 安全 HTTP 网关与会话状态存储，Glama 评级得分 Grade B。 | 开源实现, TypeScript 开发 📇, 本地/Docker 运行 🏠🐳, 跨平台 🍎🪟🐧, MIT 开源许可, 生产级 MCP 模板。 |
+| [mcp-production-kit](https://github.com/A7mdMe/mcp-production-kit) | 企业级 TypeScript MCP 服务器脚手架与全栈生产套件，内置系统指标诊断、防 SSRF 安全 HTTP 网关与会话状态存储。 | 开源实现, TypeScript 开发 📇, 本地/Docker 运行 🏠🐳, 跨平台 🍎🪟🐧, MIT 开源许可, 生产级 MCP 模板。 |
 | [Cortex](https://github.com/cortex-docs/cortex) | 从 OpenAPI、AsyncAPI、GraphQL、Protocol Buffer、OpenRPC 和 Markdown 生成可安装的 MCP 服务器，提供类型化 API 工具、接口规范、SDK 指南和项目文档。 | 官方实现, TypeScript 开发 📇, 本地运行 🏠, 跨平台 🍎🪟🐧, MIT, `npx @cortex-docs/mcp`。 |
 | [Bestax](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) | 为编码 Agent 提供 Bestax（基于 Bulma v1 的 React 组件库）的组件 props、示例、CSS 变量和 Agent Skills，离线运行。 | 官方实现 (Bestax) 🎖️, TypeScript 开发 📇, 本地运行 🏠, MIT, 无需 API Key, `npx -y bestax-mcp@1`。 |
 | [mcp-contract-check](https://github.com/gendjo-owlhead/mcp-contract-check) | MCP 服务端契约测试与 Schema 模糊测试 CI 检查工具：自动化验证工具定义、输入参数与输出契约的一致性，防止 Breaking Changes。支持 GitHub Action 与 CLI。 | 社区实现, TypeScript 开发 📇, 本地运行 🏠, 跨平台 🍎🪟🐧, 契约与模糊测试 / GitHub Action, MIT。 |
